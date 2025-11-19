@@ -1,4 +1,4 @@
--- Banner -->
+<!-- Banner -->
 <h1 align="center">Hi 👋 I'm IRASUBIZA NTWARI Gloria</h1>
 <h3 align="center">Software Engineer | AI Enthusiast | Builder of Smart & Scalable Solutions</h3>
 
@@ -10,13 +10,13 @@
 
 ## 👩‍💻 About Me  
 I am a **Software Engineer** passionate about creating smart, scalable, and meaningful solutions.  
-I am an **AI enthus<!iast** who loves exploring intelligent systems, modern backend technologies, mobile apps, cloud tools, and innovation-driven development.
+I am an **AI enthusiast** who loves exploring intelligent systems, backend technologies, mobile apps, cloud tools, and innovation-driven engineering.
 
-- 🚀 Strong focus on **AI-assisted development**  
+- 🚀 Strong focus on **AI-driven development**  
 - 🧠 Passionate about **full-stack engineering**  
-- 💡 Enthusiastic about **problem-solving & impactful tech**  
-- 🤝 Open to collaboration on modern software + AI projects  
-- 🛠 Enjoy building systems that actually help people  
+- 💡 Enjoy solving real-world problems  
+- 🤝 Open to collaborations  
+- 🛠 Love building systems that impact lives  
 
 ---
 
@@ -72,14 +72,18 @@ I am an **AI enthus<!iast** who loves exploring intelligent systems, modern back
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gloria-ntwari&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-### 🔥 Contribution Streak  
+---
+
+## 🔥 Contribution Streak (Fixed Working Version)
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gloria-ntwari&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.vercel.app/?user=gloria-ntwari&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-### 🏆 Profile Achievements  
+---
+
+## 🏆 Profile Achievements (Fixed Working Version)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gloria-ntwari&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gloria-ntwari&theme=tokyonight&no-frame=true&margin-w=8" />
 </p>
 
 ---
