@@ -1,7 +1,5 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/1ZQZ1Zv.gif" width="900" alt="Welcome Banner"/>
-</p>
+
 
 <h1 align="center">Hi 👋 I'm IRASUBIZA NTWARI Gloria</h1>
 <h3 align="center">Software Engineer | AI Enthusiast | Builder of Smart & Scalable Solutions</h3>
