@@ -81,13 +81,6 @@ I am an **AI enthusiast** who loves exploring intelligent systems, backend techn
 
 ---
 
-## 🏆 Profile Achievements (Fixed Working Version)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gloria-ntwari&theme=tokyonight&no-frame=true&margin-w=8" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -107,8 +100,4 @@ I am an **AI enthusiast** who loves exploring intelligent systems, backend techn
 ## ❤️ Thank You for Visiting!
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=FF42A1&center=true&vCenter=true&width=600&lines=Feel+free+to+connect!;Let's+build+amazing+things+together!;Have+a+great+day+%F0%9F%8C%9F" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gloria-ntwari&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
